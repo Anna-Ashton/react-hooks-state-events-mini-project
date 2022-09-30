@@ -38,7 +38,7 @@ _When the delete button is clicked_, the task should be removed from the list.
 Pass the list of categories to this component from `App`. Then, update this
 component to display `<button>` elements for each category. In order to pass the test, the buttons will need a key prop equal to the category.
 
-_When a button is clicked_, the following should happen:
+_When a button is clicked_, the following shou``ld happen:
 
 - Whichever button was clicked should have a class of `selected`. The other
   buttons should not have any class assigned.
